@@ -7,6 +7,6 @@ import retrofit2.http.GET
 
 interface ProfileService {
 
-    @GET(value = "66816372375a17b7f0be55248798398d/raw/3cf3c70938ee03b1cb2b2a93dfc86d55297ba639/p.json")
+    @GET(value = "28447918c157e033aafdaa32763275a4/raw/f9ad14ed798dd5851c3172341ec229f7761dc002/cv.json")
     fun getProfile(): Single<ProfileDto>
 }
