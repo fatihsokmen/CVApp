@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CV App</string>
+
+    <string name="activity_title">Profile</string>
+
+    <string name="section_experiences">Experiences</string>
+    <string name="section_skills">Skills</string>
+    <string name="section_recommendations">Recommendations</string>
+</resources>
